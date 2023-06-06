@@ -31,7 +31,7 @@ include:
 url: "https://voronoii.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: mjlee # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
